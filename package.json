@@ -1,0 +1,11 @@
+{
+  "name": "EnergySource",
+  "version": "0.0.1",
+  "engines": {
+    "node": "12.13.x",
+    "npm": "6.12.x"
+  },
+  "devDependencies": {
+    "truffle": "^5.0.42"
+  }
+}
