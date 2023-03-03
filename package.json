@@ -6,6 +6,6 @@
     "npm": "6.12.x"
   },
   "devDependencies": {
-    "truffle": "^5.0.42"
+    "truffle": "^5.7.9"
   }
 }
